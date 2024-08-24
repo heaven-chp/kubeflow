@@ -9,3 +9,4 @@ spec:
     kind: ClusterIssuer
     name: kubeflow-self-signing-issuer
   secretName: kubeflow-ingressgateway-certs
+---
